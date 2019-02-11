@@ -13,7 +13,7 @@
 
 + J'ai fait appel à l'un de mes camarades `Sallès Sascha` de classe qui actuellement un bon niveau en python qui a pu m'aiguiller et me donner des idées. **en aucun cas j'ai copier ou tricher**
 
-**troisièmement**
+**Troisièmement**
 ---
 
 + J'ai attaque le projet par télécharger un package de la communauté 
@@ -35,7 +35,7 @@ j'ai fait : `index.md`
 + J'ai essaye de respecter la PEP 8 et la PEP 20 dans les deux codes.
 
 
-# Impliaction # 
+# Implication # 
 
 + Je viens de créer tout juste mon `GITHUB` Lundi 11 février.
 + J'ai essaye de m'investir à fond pour remonter mes notes.
