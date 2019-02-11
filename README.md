@@ -1,4 +1,6 @@
-# Convertisseur #
+# Bianco Mathis #
+
+# Convertisseur de Markdown vers HTML #
 
 **Premièrement**
 ---
