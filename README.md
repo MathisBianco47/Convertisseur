@@ -21,7 +21,7 @@
 + J'ai exécuté les commandes sur mon terminal pour télécharger les packets
 + Télécharger avec succès, j'ai pu directement utiliser les packets sur mon Éditeur de Texte `CodeRunner`
 
-## Détails de mon code ##
+# Détails de mon code #
 j'ai fait : `convertisseur.py`
 + importation du module markdown qui convertit les fichiers HTML en md
 + ouvre le fichier markdown à convertir
@@ -40,3 +40,10 @@ j'ai fait : `index.md`
 + Je viens de créer tout juste mon `GITHUB` Lundi 11 février.
 + J'ai essaye de m'investir à fond pour remonter mes notes.
 + Je vous ai interpeller donc je pense que j'ai des chances de vous convaincre pour l'implication.
+
+
+# Complication #
+
++ Je n'ai pas reussi à tout finir malheureusement je me suis arreter à la ligne de commande car je comprennai pas tous mais j'ai essayé avec Click mais un peu de mal à comprendre.
++ J'aurai pu demander à mes camarades mais je voulais réussir par moi-même ce projet.
++ Mon convertisseur en tout cas fonctionne et je pense avoir respecter la demande pour chaque tâche.
